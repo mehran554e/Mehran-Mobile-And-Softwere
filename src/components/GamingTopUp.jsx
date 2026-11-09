@@ -8,11 +8,11 @@ const games = [
     icon: Zap,
     color: 'from-orange-500 to-red-600',
     packages: [
-      { name: '35 Diamonds', price: 70 },
-      { name: '70 Diamonds', price: 120 },
-      { name: '140 Diamonds', price: 240 },
-      { name: '355 Diamonds', price: 600 },
-      { name: '713 Diamonds', price: 1200 },
+      { name: '35 Diamonds', price: 60 },
+      { name: '70 Diamonds', price: 100 },
+      { name: '140 Diamonds', price: 200 },
+      { name: '355 Diamonds', price: 500 },
+      { name: '713 Diamonds', price: 1000 },
     ],
   },
   {
@@ -22,7 +22,7 @@ const games = [
     color: 'from-yellow-500 to-orange-600',
     packages: [
       { name: '60 UC', price: 300 },
-      { name: '385 UC', price: 1500 },
+      { name: '325 UC', price: 1500 },
       { name: '660 UC', price: 2800 },
       { name: 'Royale Pass', price: 1700 },
     ],
